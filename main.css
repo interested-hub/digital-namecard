@@ -123,7 +123,7 @@ img.profile-pic {
 }
 
 .banner {
-	height: 30%;
+	height: 50%;
 }
 
 .primary-info {
@@ -139,25 +139,25 @@ img.profile-pic {
 }
 
 .bg-color-white {
-	background-color: white;
+	background-color: blue;
 }
 
 .text-name {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 400;
     color: #333333;
     font-size: 20px;
 }
 
 .text-title-company {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 200;
     color: #333333;
     font-size: 12px;
 }
 
 .text-detail {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
     color: #575757;
     font-size: 12px;
